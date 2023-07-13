@@ -1,7 +1,7 @@
-<h1 align="center">Calculator App Project ➕ ➖✖️➗</h1>
+<h1 align="center">Simple Caculator ➕ ➖✖️➗</h1>
 
 
-### Today I made A basic Calculator App Developed using #HTML , #CSS and #JavaScript.
+### Today I made A Simple Calculator App Developed using #HTML , #CSS and #JavaScript.
 
 ![image](https://github.com/Piyushhh11/Internpe_Task1_SimpleCalculator/assets/113534923/6795f564-3756-4398-a61d-71530f1dbf4b)
 
